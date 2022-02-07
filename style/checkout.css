@@ -1,0 +1,10 @@
+#address {
+    display: flex;
+}
+
+#order-form {
+    margin-left: 50px;
+}
+button {
+    margin-top: 8px;
+}
